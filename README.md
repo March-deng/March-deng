@@ -1,17 +1,30 @@
 ### Hi there 👋
-My name is 邓聪, or call me March Deng.
+邓聪(he/him), or call me March Deng.
+**Seeking opptunity in Storage, Database or Cloud Native application, Rust preferred.**
 
-<!--
-**March-deng/March-deng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Major in chemistry at ECUST, but work as a Software Engineer.
+With 3y+ experiences in Go, I focus on building backend services in distributed enviroment.
 
-Here are some ideas to get you started:
+## Things I'm familiar with
+- Go in backend
+- Kubernetes
+- Prometheus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I know
+- PostgreSQL
+- Etcd/BoltDB
+- Redis
+
+## Things I'm learning
+- Build real world application in Rust
+- How Prometheus work internally
+- The Kubernetes core design and implementation.
+
+## Interest
+- Go, Rust and Ruby
+- Distributed system and Cloud Native.
+- Database and Storage
+
+
+
